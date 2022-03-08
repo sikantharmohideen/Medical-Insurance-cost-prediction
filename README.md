@@ -26,7 +26,7 @@ Column Attributes :
 • Built a model to predict Insurance Cost based on the features
 
 
-## FEATURES
+## METHODOLOGY
 1. Exploring the dataset
 2. Converting Categorical values to Numerical
 3. Plotting Heatmap to see dependency of Dependent valeu on Independent features
